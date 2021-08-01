@@ -1,6 +1,6 @@
 # InformeLaboratorio6
 
-Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica 
+Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 
 # 1. Objetivos 
 
