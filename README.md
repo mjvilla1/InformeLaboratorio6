@@ -6,8 +6,9 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
       Objetivo General
      
-    - Analizar y comprobar el teorema de máxima transferencia de potencia  mediante   la   resolución del ejercicio propuesto en la guía de práctica 
-    para identificar el uso correcto del teorema con su respectiva simulación en un software de diseño electrónico.
+    - Analizar y comprobar el teorema de máxima transferencia de potencia  mediante   la   resolución del ejercicio
+    propuesto en la guía de práctica para identificar el uso correcto del teorema con su respectiva simulación 
+    en un software de diseño electrónico.
     
     Objetivos Específicos
      - Verificar experimentalmente en forma cualitativa el método de máxima transferencia de potencia 
