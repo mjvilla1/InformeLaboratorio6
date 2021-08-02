@@ -29,7 +29,19 @@ Integrantes: César Garnica - Jonathan Insuasti - Melany Villa
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.2.PNG)
 # 3. Explicación  del procedimiento
 
+1.-Para comenzar con la práctica correspondiente al laboratorio #6 es necesario tener conocimiento de cómo funciona el teorema de máxima transferencia de potencia 
+como se muestra en el siguiente diagrama del circuito a experimentar 
 
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Circuito%20MTP.PNG)
+
+2.-Una vez realizado un análisis del circuito se observa que consta de dos resistencias y una fuente de voltaje 
+con su respectivo valor.
+
+
+3.-Con el paso anterior se procede a la revisión del valor de cada uno de los componentes presentes en el circuito, 
+al igual que los materiales utilizados para su respectiva realizacion. 
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Materiales%20MTP.PNG)
 
 
 #  4. Respuestas 
