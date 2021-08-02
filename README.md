@@ -43,6 +43,52 @@ al igual que los materiales utilizados para su respectiva realizacion.
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Materiales%20MTP.PNG)
 
+4.-Continuando con la práctica procedemos a armar el circuito conforme se muestra en la figura 
+5.-Primero colocamos el protoboard en el cual se ubicarán las dos resistencias y la fuente de voltaje con sus respectivos valores del diagrama de la práctica, y procedemos a conectar un instrumento de medición (multímetro) el cual nos servirá para medir 
+el voltaje y la corriente respectivamente activando sus funciones correspondientes.
+
+6.-Procedemos a simular con la ayuda de nuestro simulador Tinkercad para todas las resistencias que estan a continuación 
+220 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/220%20Ohm.PNG)
+
+470 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/470%20Ohms.PNG)
+
+680 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/680%20Ohms.PNG)
+
+
+820 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/820%20Ohms.PNG)
+
+1000 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/1000%20Ohms.PNG)
+
+1500 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/1500%20Ohms.PNG)
+
+1800 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencia%20de%201800.PNG)
+
+2200 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencia%20de%202200.PNG)
+
+3900 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencia%20de%203900.PNG)
+
+4700 Ω
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencia%20de%204700.PNG)
+
 
 #  4. Respuestas 
 
