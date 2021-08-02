@@ -44,6 +44,7 @@ al igual que los materiales utilizados para su respectiva realizacion.
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Materiales%20MTP.PNG)
 
 4.-Continuando con la práctica procedemos a armar el circuito conforme se muestra en la figura 
+
 5.-Primero colocamos el protoboard en el cual se ubicarán las dos resistencias y la fuente de voltaje con sus respectivos valores del diagrama de la práctica, y procedemos a conectar un instrumento de medición (multímetro) el cual nos servirá para medir 
 el voltaje y la corriente respectivamente activando sus funciones correspondientes.
 
