@@ -30,7 +30,6 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 #  4. Respuestas 
 
 
-![](https://github.com/mjvilla1/ImagenesLab6/blob/main/MTP%206-10%20Resistencias.PNG)
 
 # 5. Video
 
@@ -38,8 +37,13 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 
 # 6. Conclusiones
 
-
-
+- Como no existen medidores de potencia para circuitos de Corriente Directa es necesario medir el voltaje, 
+corriente o ambos para calcular la potencia en un elemento resistivo.
+- El teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, 
+con un poco de cálculo elemental: llegamos a la conclusión que la máxima potencia se da cuando la carga toma de 
+resistencia de igual a la resistencia de Thevenin o Norton.
+- La potencia en la resistencia variable, depende de los valores del circuito equivalente de Thevenin.
+- 
 
 # 7. Bibliografía 
 
