@@ -48,6 +48,7 @@ al igual que los materiales utilizados para su respectiva realizacion.
 el voltaje y la corriente respectivamente activando sus funciones correspondientes.
 
 6.-Procedemos a simular con la ayuda de nuestro simulador Tinkercad para todas las resistencias que estan a continuación 
+
 220 Ω
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/220%20Ohm.PNG)
