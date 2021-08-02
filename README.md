@@ -34,6 +34,8 @@ Integrantes: César Garnica - Jonathan Insuasti - Melany Villa
 
 #  4. Respuestas 
 
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencias%201-5.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/MTP%206-10%20Resistencias.PNG)
 
 Respuestas a Interrogantes
