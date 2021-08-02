@@ -92,11 +92,21 @@ el voltaje y la corriente respectivamente activando sus funciones correspondient
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencia%20de%204700.PNG)
 
 
+7.-Para la práctica calculamos la potencia consumida por la resistencia RL, utilizando en esta ocasión el simulador DCACLab para asi medir con la ayuda de un vatímetro la potencia de cada una de las resistencia, el ejemplo de a continuación es con la resistencia de 1000 Ohms que es la que mas se aproxima a la resistencia interna de la fuente con la que podemos ver la máxima transferencia de potencia 
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Wattimetro.PNG)
+
+
 #  4. Respuestas 
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Resistencias%201-5.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/MTP%206-10%20Resistencias.PNG)
+
+
+A continuacion se procede a poner en la tabla del resultado
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20de%20resultados.PNG)
 
 Respuestas a Interrogantes
 
@@ -115,7 +125,7 @@ RL = 1200 ohms
 
 # 5. Video
 
-
+https://youtu.be/oqu5joHA7x4
 
 # 6. Conclusiones
 
