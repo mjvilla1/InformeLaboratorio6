@@ -36,6 +36,21 @@ Integrantes: César Garnica - Jonathan Insuasti - Melany Villa
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/MTP%206-10%20Resistencias.PNG)
 
+Respuestas a Interrogantes
+
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+Si se cumple, cuando más cercano esta la resistencia particular a la resistencia de thevenin mayor es la transferencia 
+de potencia con su valor
+
+¿Cuál fue la potencia máxima en RL?
+
+RL = 1000Ω = 46,51 mW.(watts)
+
+¿Para qué valor de RL se obtiene la MTP?
+
+RL = 1200 ohms
+
 # 5. Video
 
 
