@@ -30,6 +30,7 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 #  4. Respuestas 
 
 
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/MTP%206-10%20Resistencias.PNG)
 
 # 5. Video
 
