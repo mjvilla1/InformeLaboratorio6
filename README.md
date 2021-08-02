@@ -23,6 +23,7 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/maxima%20transferencia%20de%20potencia.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.1.PNG)
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.2.PNG)
 # 3. Explicación  del procedimiento
