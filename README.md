@@ -21,11 +21,10 @@ Integrantes:César Garnica - Jonathan Insuasti - Melany Villa
 # 2. Marco Teórico
 
 ![](https://github.com/mjvilla1/ImagenesLab6/blob/main/maxima%20transferencia%20de%20potencia.PNG)
-| Primer encabezado | Segundo encabezado | Tercer encabezado |
-| ------------- | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.PNG)
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.1.PNG)
+![](https://github.com/mjvilla1/ImagenesLab6/blob/main/Tabla%20%236.2.PNG)
 # 3. Explicación  del procedimiento
 
 
